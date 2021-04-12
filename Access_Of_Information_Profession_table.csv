@@ -1,0 +1,17 @@
+Country,Profession,Mean,Count,Std.,CI95_high,CI95_low,CI90_high,CI90_low
+Bangladesh,Academian/Administration,3.131,145,0.819,4.727,1.535,4.482,1.780
+Bangladesh,Medical Professionals,3.104,337,0.865,4.790,1.417,4.531,1.677
+China,Academian/Administration,,0,,,0.000,,0.000
+China,Medical Professionals,,0,,,0.000,,0.000
+Japan,Academian/Administration,2.356,59,0.846,4.006,0.706,3.752,0.960
+Japan,Medical Professionals,2.650,20,0.875,4.356,0.944,4.094,1.206
+Malaysia,Academian/Administration,3.314,51,0.883,5.035,1.592,4.771,1.857
+Malaysia,Medical Professionals,3.215,93,0.845,4.863,1.567,4.609,1.821
+Mexico,Academian/Administration,2.658,339,0.894,4.402,0.914,4.133,1.182
+Mexico,Medical Professionals,2.630,227,0.812,4.213,1.047,3.969,1.291
+Pakistan,Academian/Administration,2.879,58,0.957,4.745,1.014,4.458,1.301
+Pakistan,Medical Professionals,3.212,203,0.814,4.799,1.624,4.555,1.868
+United States,Academian/Administration,2.815,233,0.907,4.585,1.046,4.313,1.318
+United States,Medical Professionals,2.798,94,0.957,4.664,0.932,4.377,1.219
+Zambia,Academian/Administration,2.684,57,0.848,4.339,1.030,4.084,1.284
+Zambia,Medical Professionals,3.211,19,0.787,4.746,1.675,4.510,1.911
