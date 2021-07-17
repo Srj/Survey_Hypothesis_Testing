@@ -1,0 +1,23 @@
+Country,Profession,Mean,Count,Std.,CI95_high,CI95_low,CI90_high,CI90_low
+Bangladesh,Academian/Administration,3.131,145,0.819,4.727,1.535,4.482,1.780
+Bangladesh,Medical Professionals,3.104,337,0.865,4.790,1.417,4.531,1.677
+Bangladesh,Others,2.778,9,0.833,4.403,1.153,4.153,1.403
+China,Academian/Administration,2.436,564,0.875,4.142,0.731,3.879,0.993
+China,Medical Professionals,1.709,148,0.964,3.589,0.000,3.299,0.119
+Japan,Academian/Administration,2.356,59,0.846,4.006,0.706,3.752,0.960
+Japan,Medical Professionals,2.650,20,0.875,4.356,0.944,4.094,1.206
+Japan,Others,2.250,8,1.165,4.522,0.000,4.172,0.328
+Malaysia,Academian/Administration,3.314,51,0.883,5.035,1.592,4.771,1.857
+Malaysia,Medical Professionals,3.215,93,0.845,4.863,1.567,4.609,1.821
+Malaysia,Others,3.000,4,0.816,4.592,1.408,4.347,1.653
+Mexico,Academian/Administration,2.663,341,0.895,4.408,0.918,4.139,1.186
+Mexico,Medical Professionals,2.634,232,0.805,4.204,1.063,3.963,1.305
+Mexico,Others,2.455,22,1.184,4.764,0.145,4.409,0.500
+Pakistan,Academian/Administration,2.879,58,0.957,4.745,1.014,4.458,1.301
+Pakistan,Medical Professionals,3.212,203,0.814,4.799,1.624,4.555,1.868
+Pakistan,Others,3.000,2,0.000,3.000,3.000,3.000,3.000
+United States,Academian/Administration,2.815,233,0.907,4.585,1.046,4.313,1.318
+United States,Medical Professionals,2.798,94,0.957,4.664,0.932,4.377,1.219
+United States,Others,2.250,8,0.886,3.978,0.522,3.713,0.787
+Zambia,Academian/Administration,2.684,57,0.848,4.339,1.030,4.084,1.284
+Zambia,Medical Professionals,3.211,19,0.787,4.746,1.675,4.510,1.911
