@@ -1,5 +1,5 @@
-![Behavioral Sciences](behavsci-logo.webp)
-# Analyzing Predictors of Control Measures and Psychosocial Problems Associated with COVID-19 Pandemic: Evidence from Eight Countries
+![Behavioral Sciences](Banner.webp)
+# [Analyzing Predictors of Control Measures and Psychosocial Problems Associated with COVID-19 Pandemic: Evidence from Eight Countries](https://www.mdpi.com/2076-328X/11/8/106)
 ---
 ### Sheikh Saifur Rahman Jony <sup>1</sup>, Ubydul Haque <sup>2</sup> Nathaniel J. Webb <sup>3</sup>, Emily Spence <sup>2</sup>, Siddikur Rahman <sup>4</sup>,Nasrin Aghamohammadi <sup>5</sup>, Yongchan Lie <sup>6</sup>, Aracely Angulo-Molina <sup>7</sup>, Sushmitha Ananth <sup>2</sup>, Xuelian Ren <sup>8</sup>,Nobuyuki Kawachi <sup>9</sup>, Hiromu Ito <sup>9</sup>, Osman Ulvi <sup>2</sup>, Jailos Lubinda <sup>10</sup>, Ajlina Karamehic-Muratovic <sup>11</sup>,Wasim Maher <sup>12</sup>, Parveen Ali <sup>13</sup> and M. Sohel Rahman <sup>1</sup>
 ---
